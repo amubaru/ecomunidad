@@ -1,0 +1,205 @@
+.fondo{
+	background-image:url(../img/semilla.jpg); 
+	background-size:100%;
+	background-repeat: no-repeat;
+	background-position:center;
+	height:350px;
+	width:100%}
+
+.ldfondo{
+	background-color:#EBEBE0;
+	height:150px;
+	padding:50px;
+	font-size:13px}
+
+.ldfondo p{
+	text-align:center;
+	margin:0px 200px 0px 200px}	
+
+.logo{
+	height:80px;
+	width:85px;}
+
+.menu ul{
+	float:right;
+	margin-top:40px}
+
+.menu li{
+	width:100px;
+	text-align:center;
+	display:inline-block;
+	border-right:1px solid grey}
+
+.menu li:last-child{border:none;}		
+
+.menu a{color:grey;
+		text-decoration:none;
+		padding:15px;}
+
+/*Section*/
+.imgmision{
+	height:100px;
+		}
+	
+
+.text{
+	text-align:center;
+	margin:60px 50px 0px 50px;
+	font-size:13px}
+
+.misionvision .container{width:100%}
+
+/*Section2*/
+
+.fondometo{background-image:url(../img/fondo.jpg);
+		   height:400px;
+		   width:99%;
+		   overflow:hidden;
+		   margin-top:50px }
+
+.iconme{height:43px}
+
+.metodo{
+	height:400px;
+	width:105%}
+
+.margin{margin:15px 0px 20px 0px}
+
+.texto{
+	color:white;
+	text-align:center;
+	padding:20px 50px 0px 50px;
+	font-size:81%;
+	position:relative;
+	top:60px}
+	 	
+.alin{
+	text-align:center;
+	margin:80px}	
+
+/*servicios*/
+
+.tamacajita p{
+	font-size:11px;}
+
+.tamacajita h1{
+	font-size:11px;
+	margin-bottom:20px}
+
+.tamacajita{margin-top:100px}
+	
+/*proyectos*/
+.backproyectos{
+	background-color:#4C8033;
+	height:740px;
+	margin:80px 0px 80px 0px}
+
+.fpro{
+	height:300px;
+	width:480px}
+
+.tpro{
+	padding:60px 0px 0px 80px;}
+
+.proyectos{color:white}
+
+.nomproyecto h3,h6{
+	text-align: center;
+	color:white}
+
+.papro{
+	text-align: center;
+	color:white;
+	font-size:13px}	
+
+.padtextpro{padding:50px}	
+
+.c1proyecto{width:450px}
+
+.c2proyecto{
+	position:relative;	
+	top:260px;
+	width:450px}
+		
+/*Equipos*/
+
+.equipo{
+	border-radius:100%;
+	height:200px;
+	width:200px;
+	margin-bottom:20px}
+	
+.cargos{text-align:center;
+		margin:0px 60px}
+
+.cargos p{
+	margin-bottom:40px;
+	font-size:13px}
+
+.infosocial{
+	height:30px;
+	margin:5px}	
+
+/*blog*/
+
+.backblog{
+	background-image:url(../img/fondo2.jpg);
+	height:500px;
+	padding:20px 20px 20px 90px}
+
+.tleft{text-align:left;}
+
+.tcenter{text-align:center;}
+
+.tright{text-align:right;}
+
+.blogsection{padding:20px 20px 20px 90px}	
+
+.blogfoto{
+	height:200px;
+	width:280px;}
+
+.slider{
+	position:relative;}
+
+.slider2{
+	position:relative;
+	left:1080px;
+	bottom: 239px}		
+
+/*social*/
+
+.backsocial{
+	background-color:grey;
+	height:400px;
+	padding:60px}
+
+.cuadrado{
+	height:230px;
+	width:280px;
+	border:1px solid white;}
+
+.cuadrado p{
+	color:white;
+	margin:15px}
+
+.iconsocial{
+	height:33px;
+	width:38px;
+	position:relative;
+	top:130px;
+	left:120px}
+
+/*footer*/
+
+.backfooter{
+	background-color:white;
+	height:200px;}
+
+.footer{
+	padding:50px;
+	font-size:13px;}
+
+.center{text-align:center;}	
+
+span{color:yellow}				
